@@ -33,4 +33,3 @@ npm run build
 lorem ipsum
 dolor sit amet
 ```
-
